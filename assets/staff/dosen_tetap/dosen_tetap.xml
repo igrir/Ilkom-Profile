@@ -1,0 +1,21 @@
+<data>
+	<dosen_tetap nama="Dosen Tetap">
+		<dosen nama_button="Asep Wahyudin, MT." gambar_button="assets/staff/dosen_tetap/dosen/asep_wahyudin_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/asep wahyudin.html"/>
+		<dosen nama_button="Eddy Prasetyo Nugroho, MT." gambar_button="assets/staff/dosen_tetap/dosen/eddi_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/eddy prasetyo nugroho.html"/>
+		<dosen nama_button="Eka Fitrajaya Rahman, Drs. MT" gambar_button="assets/staff/dosen_tetap/dosen/eka fitrajaya_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/eka fitrajaya rahman.html"/>
+		<dosen nama_button="Enjang Ali Nurdin, Dr.,  M.Kom" gambar_button="assets/staff/dosen_tetap/dosen/enjang ali nurdin_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/enjang ali nurdin.html"/>
+		<dosen nama_button="Herbert Siregar, MT." gambar_button="assets/staff/dosen_tetap/dosen/herbert_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/herbert siregar.html"/>
+		<dosen nama_button="Heri Sutarno, Drs. MT." gambar_button="assets/staff/dosen_tetap/dosen/heri sutarno_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/heri sutarno.html"/>
+		<dosen nama_button="Jajang Kusnendar,MT." gambar_button="assets/staff/dosen_tetap/dosen/jajang_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/jajang kusnendar.html"/>
+		<dosen nama_button="Lala Septem Riza, MT." gambar_button="assets/staff/dosen_tetap/dosen/lala_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/lala septem riza.html"/>
+		<dosen nama_button="Muhammad Nursalman, MT." gambar_button="assets/staff/dosen_tetap/dosen/muhammad nursalman_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/muhammad nursalman.html"/>
+		<dosen nama_button="Munir, Dr. MIT." gambar_button="assets/staff/dosen_tetap/dosen/munir_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/munir.html"/>
+		<dosen nama_button="Rasim, MT." gambar_button="assets/staff/dosen_tetap/dosen/rasim_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/rasim.html"/>
+		<dosen nama_button="Rizky Rahman J., M.Kom" gambar_button="assets/staff/dosen_tetap/dosen/rizky_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/rizky rahman.html"/>
+		<dosen nama_button="Rosa Ariani Sukamto,M.T" gambar_button="assets/staff/dosen_tetap/dosen/Rosa_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/rosa ariani.html"/>
+		<dosen nama_button="Wahyudin MT." gambar_button="assets/staff/dosen_tetap/dosen/wahyudin_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/wahyudin.html"/>
+		<dosen nama_button="Dr. Wawan Setiawan, M.Kom" gambar_button="assets/staff/dosen_tetap/dosen/ws_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/wawan setiawan.html"/>
+		<dosen nama_button="Yudi Wibisono, MT." gambar_button="assets/staff/dosen_tetap/dosen/yudi wibisono_icon.jpg" file_content="assets/staff/dosen_tetap/dosen/yudi wibisono.html"/>
+                
+	</dosen_tetap>
+</data>

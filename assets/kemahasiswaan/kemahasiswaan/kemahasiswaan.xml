@@ -1,0 +1,19 @@
+<data>
+    <prodi nama="ilkom">
+        <menu judul="Clubink" nama_button="Clubink" gambar_button="assets/prodi/ilkom/ilkom_pengenalan.png" file_content="assets/prodi/ilkom/ilkom_pengenalan.html">
+            Pengenalan ilmu komputer UPI
+        </menu>
+        <menu judul = "Ostric" nama_button ="Ostric" gambar_button="assets/prodi/ilkom/ilkom_pengenalan.png" file_content="assets/prodi/ilkom/ilkom_kurikulum.html">
+            Kurikulum ilmu komputer UPI
+        </menu>
+        <menu judul = "POSS" nama_button = "POSS" gambar_button="assets/prodi/ilkom/ilkom_pengenalan.png" file_content="assets/prodi/ilkom/ilkom_pengenalan.html">
+            visi misi ilmu komputer UPI
+        </menu>
+        <menu judul = "KEMAKOM FC" nama_button = "KEMAKOM FC" gambar_button="assets/prodi/ilkom/ilkom_pengenalan.png" file_content="assets/prodi/ilkom/ilkom_pengenalan.html">
+            visi misi ilmu komputer UPI
+        </menu>
+        <menu judul = "KEMAKOM" nama_button = "KEMAKOM" gambar_button="assets/prodi/ilkom/ilkom_pengenalan.png" file_content="assets/prodi/ilkom/ilkom_pengenalan.html">
+            visi misi ilmu komputer UPI
+        </menu>
+    </prodi>
+</data>

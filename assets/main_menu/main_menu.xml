@@ -1,0 +1,11 @@
+<mainmenu>
+    <buttons>
+        <button nodename="Ilmu Komputer" image="assets/main_menu/ilkom.png"/>
+        <button nodename="Pendidikan Ilmu Komputer" image="assets/main_menu/pilkom.png"/>
+        <button nodename="staff" image="assets/main_menu/staff.jpeg"/>
+        <button nodename="fasilitas" image="assets/main_menu/fasilitas.jpeg"/>
+        <button nodename="video profil" image="assets/main_menu/video_profil.jpeg"/>
+        <button nodename="kemahasiwaan" image="assets/main_menu/kemahasiswaan.jpeg"/>
+        <button nodename="kontak" image="assets/main_menu/kontak.jpeg"/>
+    </buttons>
+</mainmenu>
