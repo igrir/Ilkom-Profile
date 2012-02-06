@@ -1,13 +1,16 @@
 <data>
-    <prodi nama="ilkom">
-        <menu judul="Laboratorium" nama_button="laboratorium" gambar_button="assets/fasilitas/laboratorium.jpeg" file_content="assets/staff/dosen_tetap/dosen_tetap.xml">
-            Pengenalan ilmu komputer UPI
+	<prodi nama="ilkom">
+		<menu judul="Laboratorium" nama_button="laboratorium"
+			gambar_button="assets/fasilitas/laboratorium.jpeg" file_content="assets/staff/dosen_tetap/dosen_tetap.xml">
+			Pengenalan ilmu komputer UPI
         </menu>
-        <menu judul="Kelas" nama_button="kelas" gambar_button="assets/fasilitas/kelas.jpeg" file_content="assets/staff/dosen_tetap/dosen_tetap.xml">
-            Pengenalan ilmu komputer UPI
+		<menu judul="Kelas" nama_button="kelas" gambar_button="assets/fasilitas/kelas.jpeg"
+			file_content="assets/staff/dosen_tetap/dosen_tetap.xml">
+			Pengenalan ilmu komputer UPI
         </menu>
-        <menu judul="Pendukung" nama_button="Pendukung" gambar_button="assets/fasilitas/pendukung.jpeg" file_content="assets/staff/dosen_tetap/dosen_tetap.xml">
-            Pengenalan ilmu komputer UPI
+		<menu judul="Pendukung" nama_button="Pendukung"
+			gambar_button="assets/fasilitas/pendukung.jpeg" file_content="assets/staff/dosen_tetap/dosen_tetap.xml">
+			Pengenalan ilmu komputer UPI
         </menu>
-    </prodi>
+	</prodi>
 </data>

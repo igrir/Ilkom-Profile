@@ -1,10 +1,12 @@
 <data>
-    <prodi nama="ilkom">
-        <menu judul="Dosen Tetap" nama_button="Dosen Tetap" gambar_button="assets/staff/dosen_tetap.jpeg" file_content="assets/staff/dosen_tetap/dosen_tetap.xml">
-            Pengenalan ilmu komputer UPI
+	<prodi nama="ilkom">
+		<menu judul="Dosen Tetap" nama_button="Dosen Tetap"
+			gambar_button="assets/staff/dosen_tetap.jpeg" file_content="assets/staff/dosen_tetap/dosen_tetap.xml">
+			Pengenalan ilmu komputer UPI
         </menu>
-        <menu judul="Dosen Luar Biasa" nama_button="Dosen Luar Biasa" gambar_button="assets/staff/dosen_luar_biasa.jpeg" file_content="assets/staff/dosen_luar_biasa/dosen_luar_biasa.xml">
-            Pengenalan ilmu komputer UPI
+		<menu judul="Dosen Luar Biasa" nama_button="Dosen Luar Biasa"
+			gambar_button="assets/staff/dosen_luar_biasa.jpeg" file_content="assets/staff/dosen_luar_biasa/dosen_luar_biasa.xml">
+			Pengenalan ilmu komputer UPI
         </menu>
-    </prodi>
+	</prodi>
 </data>

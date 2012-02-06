@@ -1,13 +1,19 @@
 <data>
-    <prodi nama="ilkom">
-        <menu judul="pengenalan" nama_button="pengenalan" gambar_button="assets/prodi/p_ilkom/p_ilkom_pengenalan.png" file_content="assets/prodi/p_ilkom/p_ilkom_pengenalan.html">
-            Pengenalan ilmu komputer UPI
+	<prodi nama="ilkom">
+		<menu judul="pengenalan" nama_button="pengenalan"
+			gambar_button="assets/prodi/p_ilkom/p_ilkom_pengenalan.png"
+			file_content="assets/prodi/p_ilkom/p_ilkom_pengenalan.html">
+			Pengenalan ilmu komputer UPI
         </menu>
-        <menu judul = "kurikulum" nama_button ="kurikulum" gambar_button="assets/prodi/p_ilkom/p_ilkom_pengenalan.png" file_content="assets/prodi/p_ilkom/p_ilkom_kurikulum.html">
-            Kurikulum ilmu komputer UPI
+		<menu judul="kurikulum" nama_button="kurikulum"
+			gambar_button="assets/prodi/p_ilkom/p_ilkom_pengenalan.png"
+			file_content="assets/prodi/p_ilkom/p_ilkom_kurikulum.html">
+			Kurikulum ilmu komputer UPI
         </menu>
-        <menu judul = "visi misi" nama_button = "visi misi" gambar_button="assets/prodi/p_ilkom/p_ilkom_pengenalan.png" file_content="assets/prodi/p_ilkom/p_ilkom_pengenalan.html">
-            visi misi ilmu komputer UPI
+		<menu judul="visi misi" nama_button="visi misi"
+			gambar_button="assets/prodi/p_ilkom/p_ilkom_pengenalan.png"
+			file_content="assets/prodi/p_ilkom/p_ilkom_pengenalan.html">
+			visi misi ilmu komputer UPI
         </menu>
-    </prodi>
+	</prodi>
 </data>

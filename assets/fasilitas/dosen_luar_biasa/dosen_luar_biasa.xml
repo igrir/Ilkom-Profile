@@ -1,10 +1,22 @@
 <data>
-    <dosen_luar_biasa nama="Dosen Luar Biasa">
-        <dosen nama_button="Dedi Rohendi, Dr. MT." gambar_button="assets/staff/dosen_luar_biasa/dosen/dedi_icon.JPG" file_content="assets/staff/dosen_luar_biasa/dosen/dedi rohendi.html"/>
-        <dosen nama_button="Drs. Parsaoran Siahaan, M.Pd." gambar_button="assets/staff/dosen_luar_biasa/dosen/dummy_icon.png" file_content="assets/staff/dosen_luar_biasa/dosen/parsaoran siahaan.html"/>
-        <dosen nama_button="Sjahriani Datau, S.Si" gambar_button="assets/staff/dosen_luar_biasa/dosen/syahriani_icon.JPG" file_content="assets/staff/dosen_luar_biasa/dosen/sjahriani datau.html"/>
-        <dosen nama_button="Rani Megasari, M.T" gambar_button="assets/staff/dosen_luar_biasa/dosen/rani_icon.jpg" file_content="assets/staff/dosen_luar_biasa/dosen/rani megasari.html"/>
-        <dosen nama_button="Muhammad Arif Fadhly Ridha, M.T" gambar_button="assets/staff/dosen_luar_biasa/dosen/dummy_icon.png" file_content="assets/staff/dosen_luar_biasa/dosen/fadhly ridha.html"/>
-        <dosen nama_button="Sandi Fajar Rodiyansyah, S.Pd" gambar_button="assets/staff/dosen_luar_biasa/dosen/dummy_icon.png" file_content="assets/staff/dosen_luar_biasa/dosen/sandi fajar rodiyansyah.html"/>
-    </dosen_luar_biasa>
+	<dosen_luar_biasa nama="Dosen Luar Biasa">
+		<dosen nama_button="Dedi Rohendi, Dr. MT."
+			gambar_button="assets/staff/dosen_luar_biasa/dosen/dedi_icon.JPG"
+			file_content="assets/staff/dosen_luar_biasa/dosen/dedi rohendi.html" />
+		<dosen nama_button="Drs. Parsaoran Siahaan, M.Pd."
+			gambar_button="assets/staff/dosen_luar_biasa/dosen/dummy_icon.png"
+			file_content="assets/staff/dosen_luar_biasa/dosen/parsaoran siahaan.html" />
+		<dosen nama_button="Sjahriani Datau, S.Si"
+			gambar_button="assets/staff/dosen_luar_biasa/dosen/syahriani_icon.JPG"
+			file_content="assets/staff/dosen_luar_biasa/dosen/sjahriani datau.html" />
+		<dosen nama_button="Rani Megasari, M.T"
+			gambar_button="assets/staff/dosen_luar_biasa/dosen/rani_icon.jpg"
+			file_content="assets/staff/dosen_luar_biasa/dosen/rani megasari.html" />
+		<dosen nama_button="Muhammad Arif Fadhly Ridha, M.T"
+			gambar_button="assets/staff/dosen_luar_biasa/dosen/dummy_icon.png"
+			file_content="assets/staff/dosen_luar_biasa/dosen/fadhly ridha.html" />
+		<dosen nama_button="Sandi Fajar Rodiyansyah, S.Pd"
+			gambar_button="assets/staff/dosen_luar_biasa/dosen/dummy_icon.png"
+			file_content="assets/staff/dosen_luar_biasa/dosen/sandi fajar rodiyansyah.html" />
+	</dosen_luar_biasa>
 </data>
