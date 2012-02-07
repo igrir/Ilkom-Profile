@@ -1,0 +1,7 @@
+<foto_slideshow>
+	<foto_foto>
+		<foto nodename="Ilmu Komputer" image="assets/foto_bg/1.jpeg" />
+		<foto nodename="Ilmu Komputer 2" image="assets/foto_bg/2.jpeg" />
+		<foto nodename="Ilmu Komputer 3" image="assets/foto_bg/3.png" />
+	</foto_foto>
+</foto_slideshow>
